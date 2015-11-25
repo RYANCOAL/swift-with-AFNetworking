@@ -18,7 +18,4 @@ Finish it, after try to build the app to ensure that there is no   error in this
 Please go ahead with website with pod install, after that open the Xcode, choose *****.xcworkspace,such as Test.xcworkspace it will have two project, first is your project name, second is Pods. in ******-bridging-Header.h, input #import "AFNetworking.h”. after try this code is var Manager = AFHTTPSessionManager() 
 if no error,please build the app for testing.
 
-
-
-
-
+if there are errors, please tell me, e-mail:lmf242003@gmail.com
